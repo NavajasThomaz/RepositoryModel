@@ -18,11 +18,11 @@
 <div align="center">
 </div>
 
-##### <div align="center">🧱Esse projeto é uma base para produzir repositórios no GitHub.🧱</div>
+##### <div align="center">Esse projeto é uma base para produzir repositórios no GitHub de forma organizada e padronizada.</div>
 
-##### <div align="center">🧱Video explicativo em produção.🧱</div>
+##### <div align="center">🎥Video explicativo em produção.🎥</div>
 
-##### <div align="center"><a href=https://youtu.be>🧱Link para Video explicativo.🧱</a></div>
+##### <div align="center"><a href=https://youtu.be>🖥️Link para Video explicativo.🖥️</a></div>
 
 
 <div align="center">
