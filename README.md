@@ -1,11 +1,13 @@
-# RepositoryModel
-A template repository demonstrating best practices for project organization. Provides a structured starting point for enhanced collaboration and maintainability.
-<img align="center" style='position: fixed' width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_FURG_institucional.png/598px-Logo_FURG_institucional.png" />
+
+<img align="center" style='position: fixed' width=50 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/3x4Redonda.png?raw=true" />
 <div align="center">
 <img align="center" width=500 src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pygame_logo.svg/1280px-Pygame_logo.svg.png" />
-<h1>Programação Orientada a Objeto</h>
+<h1>RepositoryModel</h>
 </div>
 
+<div align="center">
+A template repository demonstrating best practices for project organization. Provides a structured starting point for enhanced collaboration and maintainability.
+</div>
 
 ##### <div align="center">🧱Esse projeto é uma base para produzir um jogo 2D com pygames.🧱</div>
 
