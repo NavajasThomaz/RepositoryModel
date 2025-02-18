@@ -53,23 +53,23 @@
 A template repository demonstrating best practices for project organization. Provides a structured starting point for enhanced collaboration and maintainability.
 
 <div align="center">
-<img align="center" width=500 src="https://techarthub.com/wp-content/uploads/actor-blueprint-component.jpg" />
+<img align="center" width=500 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/diretorios.png?raw=true" />
 </div>
 
 
 
 ### Ferramentas
 <div style=display:inline-block>
-<img align="center" width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="center" width=100 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/image.png?raw=true" />
 Linguagem utilizada
 </div>
 <div>
-<img align="center" width=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pygame_logo.svg/1280px-Pygame_logo.svg.png" />
-Biblioteca gráfica para renderização de gráficos 3D.
+<img align="center" width=100 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/image.png?raw=true" />
+Biblioteca Importante.
 </div>
 <div>
-<a href = "https://drive.google.com/file/d/13srzcwzpOeTazTBZgbHbo_Yagwuhpp2l/view?usp=drive_link"><img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1672955208/ccsk12inus/tmchgi8elmup78ffviev/Google_Drive_logo.png" target="_blank" width="70" align='center'></a>
-Pacote completo dos sprites estão disponiveis no drive.
+<a href = "https://drive.google.com/"><img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1672955208/ccsk12inus/tmchgi8elmup78ffviev/Google_Drive_logo.png" target="_blank" width="70" align='center'></a>
+Pacote completo no drive.
 
 
 </div>
