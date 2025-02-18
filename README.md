@@ -1,7 +1,7 @@
 
 <img align="center" style='position: fixed' width=50 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/3x4Redonda.png?raw=true" />
 <div align="center">
-<img align="center" width=500 src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pygame_logo.svg/1280px-Pygame_logo.svg.png" />
+<img align="center" width=500 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/image_titulo.png?raw=true" />
 <h1>RepositoryModel</h>
 </div>
 
@@ -9,17 +9,17 @@
 A template repository demonstrating best practices for project organization. Provides a structured starting point for enhanced collaboration and maintainability.
 </div>
 
-##### <div align="center">🧱Esse projeto é uma base para produzir um jogo 2D com pygames.🧱</div>
+##### <div align="center">🧱Esse projeto é uma base para produzir repositórios no GitHub.🧱</div>
 
 ##### <div align="center">🧱Video explicativo em produção.🧱</div>
 
-##### <div align="center"><a href=https://youtu.be/EFB-1rEvXGU>🧱Video sobre Programação Orientada a Objeto.🧱</a></div>
+##### <div align="center"><a href=https://youtu.be>🧱Link para Video explicativo.🧱</a></div>
 
 ##### <div align="center"><a href='https://colab.research.google.com/drive/1Kmgvfz3LwfgrKRRRqFCIG_7zYvHXz3RY?usp=sharing'>🧱Google Coolaboratory sobre Programação Orientada a Objeto.🧱</a></div>
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NavajasThomaz&repo=PygamesPOO&theme=transparent)](https://github.com/NavajasThomaz/PygamesPOO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NavajasThomaz&repo=RepositoryModel&theme=transparent)](https://github.com/NavajasThomaz/RepositoryModel)
 
 </div>
 
