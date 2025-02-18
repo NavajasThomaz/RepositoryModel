@@ -1,12 +1,21 @@
 
 <img align="center" style='position: fixed' width=50 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/3x4Redonda.png?raw=true" />
+
+### <div align="center">Thomaz Colalillo Navajas</div>
+<div style="display: inline_block", align="center">
+    <a href = "mailto:thomaznavajas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="www.linkedin.com/in/thomaz-navajas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://github.com/NavajasThomaz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="https://www.kaggle.com/thomaznavajas" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+
+</div>
+
 <div align="center">
 <img align="center" width=500 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/image_titulo.png?raw=true" />
 <h1>RepositoryModel</h>
 </div>
 
 <div align="center">
-A template repository demonstrating best practices for project organization. Provides a structured starting point for enhanced collaboration and maintainability.
 </div>
 
 ##### <div align="center">🧱Esse projeto é uma base para produzir repositórios no GitHub.🧱</div>
@@ -15,7 +24,6 @@ A template repository demonstrating best practices for project organization. Pro
 
 ##### <div align="center"><a href=https://youtu.be>🧱Link para Video explicativo.🧱</a></div>
 
-##### <div align="center"><a href='https://colab.research.google.com/drive/1Kmgvfz3LwfgrKRRRqFCIG_7zYvHXz3RY?usp=sharing'>🧱Google Coolaboratory sobre Programação Orientada a Objeto.🧱</a></div>
 
 <div align="center">
 
@@ -24,18 +32,9 @@ A template repository demonstrating best practices for project organization. Pro
 </div>
 
 
-
-### <div align="center">Thomaz Colalillo Navajas - 140560</div>
-<div style="display: inline_block", align="center">
-    <a href = "mailto:thomaznavajas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="www.linkedin.com/in/thomaz-navajas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/NavajasThomaz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <a href="https://www.kaggle.com/thomaznavajas" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-
-</div>
 <div>
     <details open>
-        <summary>
+        <summary closed>
 
 # Sumário</summary>
 
@@ -44,13 +43,14 @@ A template repository demonstrating best practices for project organization. Pro
 
     </details>
 </div>
-<details open>
+
+<details>
 <summary>
 
 # Introdução</summary>
 
 ### Objetivo
-O projeto visa implementar um programa em PyGames que renderiza uma tela personalizada com a capacidade de aceitar classes customizadas. Classes padrões ja estão incluidas.
+A template repository demonstrating best practices for project organization. Provides a structured starting point for enhanced collaboration and maintainability.
 
 <div align="center">
 <img align="center" width=500 src="https://techarthub.com/wp-content/uploads/actor-blueprint-component.jpg" />
@@ -77,7 +77,7 @@ Pacote completo dos sprites estão disponiveis no drive.
 
 
 
-<details open>
+<details>
 <summary>
 
 # Instruções</summary>
