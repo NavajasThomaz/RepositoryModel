@@ -102,6 +102,10 @@ Se o ambiente tiver sido criado corretamente, basta ativa-lo  com o seguinte com
 ```cmd
 venv\Scripts\activate
 ```
+Caso ocorra um erro de permissão no PowerShell execute o seguinte comando:
+```cmd
+Set-ExecutionPolicy Unrestricted -Force
+```
 O proximo passo é instalar os pacotes/bibliotecas necessários, para isso execute o seguinte comando:
 ```cmd
 pip install -r requirements.txt
