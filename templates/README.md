@@ -4,9 +4,6 @@
 <h1>/templates</h>
 
 </div>
-<div align="center">
-<img align="center" width=500 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/image_titulo.png?raw=true" />
-</div>
 
 ##### <div align="center">(Primarily Django, but also used in Flask) Contains <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank" width="70" align='center'> templates used to render web pages.</div>
 

@@ -1,14 +1,15 @@
-<img align="center" style='position: fixed' width=50 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/3x4Redonda.png?raw=true" />
 
 <div align="center">
-<img align="center" width=500 src="https://github.com/NavajasThomaz/RepositoryModel/blob/main/static/images/image_titulo.png?raw=true" />
-<h1>api</h>
-</div>
-<div align="center">
+<h1>/api</h1>
 </div>
 
-##### <div align="center">Esse diretório é uma base para produzir repositórios no GitHub de forma organizada e padronizada.</div>
+##### <div align="center">Contains code related to the project's Application Programming Interfaces (APIs), handling <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank" width="70" align='center'> endpoint definitions, serializers, and request/response logic.</div>
 
-##### <div align="center">🎥Video explicativo em produção.🎥</div>
-
-##### <div align="center"><a href=https://youtu.be>🖥️Link para Video explicativo.🖥️</a></div>
+<div style=display:inline-block>
+<img align="center" width=100 src="https://automationpanda.com/wp-content/uploads/2017/09/django-logo-negative.png" />
+: Often contains serializers, viewsets, and URL router configurations when using Django REST Framework.
+</div>
+<div>
+<img align="center" width=100 src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+: Typically includes API routers, path operation functions, and Pydantic models when using FastAPI.
+</div>
