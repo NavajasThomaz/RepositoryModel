@@ -4,7 +4,7 @@
 <h1>/bin</h1>
 </div>
 
-##### <div align="center">Contains executable scripts or compiled programs used by the project or for development tasks. Often includes <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank" width="70" align='center'> scripts.</div>
+##### <div align="center">Contains executable scripts or compiled programs used by the project or for development tasks. Often includes <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank" width="100" align='center'>.</div>
 
 <div style=display:inline-block>
 <img align="center" width=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/120px-Bash_Logo_Colored.svg.png" />
